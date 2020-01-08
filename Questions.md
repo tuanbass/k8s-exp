@@ -1,0 +1,1 @@
+- Is ETCD distributed in all master node?
