@@ -1,0 +1,5 @@
+- HTTP/2 
+- protobuf
+- multiplex 
+- support stream (dont need to receive all the request to start process)
+- multi service inside a server 
