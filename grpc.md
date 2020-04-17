@@ -3,3 +3,8 @@
 - multiplex 
 - support stream (dont need to receive all the request to start process)
 - multi service inside a server 
+- interceptor builtin (sample: ctxtag, opentracing., zap log, auth, recovery, prometheus, retry, rate limit)
+- can be zipped with gzip when calling the RPC function 
+- built in client load balance
+- grpc reflection 
+- gateway (grpcgateway, envvoy) transslate RESTful to grpc (follow google API standard, declare in proto file)
