@@ -6,5 +6,6 @@
 - interceptor builtin (sample: ctxtag, opentracing., zap log, auth, recovery, prometheus, retry, rate limit)
 - can be zipped with gzip when calling the RPC function 
 - built in client load balance
-- grpc reflection 
+- grpc reflection (something like wsdl for grpc but better) 
 - gateway (grpcgateway, envvoy) transslate RESTful to grpc (follow google API standard, declare in proto file)
+- health check protocol (also health probe prj)
