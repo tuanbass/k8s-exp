@@ -1,0 +1,4 @@
+- Reference: https://medium.com/@dche423/micro-in-action-1be29b057f2d 
+- micro as a scalfold 
+- server option can be set via environment and command line (run `micro-service -h` for detail 
+- 
