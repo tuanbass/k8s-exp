@@ -20,3 +20,9 @@
 - Worker nodes
   - kubelet  
   - CRI (Docker/RKT/CRI-O)
+  
+- Special distribution: 
+  - Kind (K IN Docker ) 
+  - k3s 
+  - Minikube 
+  - microK8
